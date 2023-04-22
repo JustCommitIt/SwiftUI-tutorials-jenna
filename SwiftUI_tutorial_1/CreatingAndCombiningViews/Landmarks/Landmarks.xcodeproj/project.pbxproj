@@ -11,6 +11,7 @@
 		3D1CF83C29F265A40022305F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CF83B29F265A40022305F /* ContentView.swift */; };
 		3D1CF83E29F265A50022305F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D1CF83D29F265A50022305F /* Assets.xcassets */; };
 		3D1CF84129F265A50022305F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D1CF84029F265A50022305F /* Preview Assets.xcassets */; };
+		3D1CF84829F364B30022305F /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1CF84729F364B30022305F /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3D1CF83B29F265A40022305F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3D1CF83D29F265A50022305F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D1CF84029F265A50022305F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3D1CF84729F364B30022305F /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,7 @@
 		3D1CF82D29F265A40022305F = {
 			isa = PBXGroup;
 			children = (
+				3D1CF84729F364B30022305F /* CircleImage.swift */,
 				3D1CF83829F265A40022305F /* Landmarks */,
 				3D1CF83729F265A40022305F /* Products */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				3D1CF83C29F265A40022305F /* ContentView.swift in Sources */,
 				3D1CF83A29F265A40022305F /* LandmarksApp.swift in Sources */,
+				3D1CF84829F364B30022305F /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
